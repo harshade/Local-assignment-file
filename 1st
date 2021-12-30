@@ -1,0 +1,54 @@
+1. In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
+*   this use for multiplication operatation 
+'hello'   this is a string
+-87.8    this a float	
+-            subtraction operation	
+/          division operation	
+	+	Addition operation
+6        this is a integet
+
+2. What is the difference between string and variable?
+String:It is wrapped with single or double quotes.it is a immutable and it this data type is primarily use for reading and writing the data.
+Variavle:it stored the data like string,int,float,class etc
+3. Describe three different data types.
+Sets
+Boolean
+dictionary
+
+4. What is an expression made up of? What do all expressions do? 
+An expression consists of one or more operators to produce a value.expression is combination of operators.they are different types of expressions
+1.constant expression:it consists of only constant value
+2.intgrial expression:witch produce integer result
+3.floating expression:witch produce the floating point.
+4.relational expression:the result of type bool.it takes the value will be true or false
+5.logical expression:tjis is the combinaction two or more resultand it produce bool type result
+
+5. This assignment statements, like spam = 10. What is the difference between an expression and a statement?
+An expression evaluates to a value.expression always produces or return a result value.Every expression can’t be a statement.
+Eg:a=4
+      a+20
+It will give 24
+Statement:it executes smethong.every ststement can be an expression
+       
+
+6. After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+The out put will be 23
+7. What should the values of the following two terms be?
+'spam' + 'spamspam'
+'spam' * 3
+The both will be same result “spamspamspam”
+
+8. Why is eggs a valid variable name while 100 is invalid?
+Eggs is a string and 100 is a integer.
+9. What three functions can be used to get the integer, floating-point number, or string version of a value?
+Int
+
+10. Why does this expression cause an error? How can you fix it?
+'I have eaten ' + 99 + ' burritos.'
+Middle of expression we have int it should convert to string,correct answer is 
+'I have eaten ' + ‘99’ + ' burritos.'
+
+
+
